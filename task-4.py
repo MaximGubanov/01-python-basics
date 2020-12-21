@@ -1,6 +1,6 @@
 number = input('Введите число: ')
 number_split = list(number)
-print(max(number_split))
+print(f"{max(number_split)} - это самая большая цифра в числе {number}.")
 
 
 
