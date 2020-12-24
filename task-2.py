@@ -26,4 +26,4 @@ while i < len(my_list):
 if last_element:
     new_list.append(last_element)
 
-print(f"{my_list} - {new_list}")
+print(f"Такой был {my_list} - такой стал {new_list}")
